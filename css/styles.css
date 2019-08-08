@@ -1,0 +1,43 @@
+body {
+  background-color: #40797F;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 80px;
+  margin-top: -10px;
+  margin-bottom: -10px;
+  font-family: sans-serif;
+  color: #DFF4F6;
+}
+.column-holder {
+  background-color: red;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.column h2 {
+  text-align: center;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+.column p {
+  padding: 20px;
+}
+
+.column img {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.foot {
+  width: 100%;
+  font-weight: bold;
+}
